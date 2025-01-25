@@ -1,0 +1,8 @@
+data/
+postgres_local/
+.ipynb_checkpointes/
+keys/
+output.parquet
+upload_data.ipynb
+.ipynb_checkpoints/upload_data-checkpoint.ipynb
+terraform.tfstate
