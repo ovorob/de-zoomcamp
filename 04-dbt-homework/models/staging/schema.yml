@@ -1,0 +1,10 @@
+version: 2
+
+sources:
+  - name: staging
+    database: central-rig-448721-n2
+    schema: de_dataset
+
+    tables:
+      - name: yellow_tripdata_2019_2020
+      - name: green_tripdata_2019_2020
